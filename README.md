@@ -20,4 +20,4 @@ Yeh meri web development practice projects ki collection hai.
 - JavaScript (coming soon)
 
 ## Author:
-[Your Name]
+>Rahul mannade
